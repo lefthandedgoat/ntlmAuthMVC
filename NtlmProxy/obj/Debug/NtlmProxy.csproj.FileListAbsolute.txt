@@ -1,0 +1,5 @@
+C:\projects\NtlmProxy\NtlmProxy\bin\Debug\MikeRogers.NtlmProxy.dll
+C:\projects\NtlmProxy\NtlmProxy\bin\Debug\MikeRogers.NtlmProxy.pdb
+C:\projects\NtlmProxy\NtlmProxy\obj\Debug\MikeRogers.NtlmProxy.dll
+C:\projects\NtlmProxy\NtlmProxy\obj\Debug\MikeRogers.NtlmProxy.pdb
+C:\projects\NtlmProxy\NtlmProxy\obj\Debug\NtlmProxy.csprojResolveAssemblyReference.cache
